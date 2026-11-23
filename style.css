@@ -19,7 +19,7 @@ body {
     justify-content: space-between;
     gap: 20px;
     padding: 15px 4%;
-    border-bottom: 1px solid #2a3d59;
+    border-bottom: 1px solid white;
 }
 
 .brand {
