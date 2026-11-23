@@ -61,11 +61,11 @@ nav a{
 nav a:hover {
   color: #8356ee;
 }
-.header-right {
-   display:flex;
-   align-items:center;
+.header-right{
+   display: flex;
+   align-items: center;
    gap: 8px;
-   color:#39d6a0
+   color: #39d6a0;
    font-size: 11px;
 }
 
